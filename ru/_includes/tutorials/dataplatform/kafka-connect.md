@@ -58,8 +58,8 @@
     1. [Скачайте](https://downloads.apache.org/kafka/) и распакуйте архив с {{ KF }}:
 
         ```bash
-        wget https://downloads.apache.org/kafka/2.6.2/kafka_2.12-2.6.2.tgz && \
-        tar -xvf kafka_2.12-2.6.2.tgz
+        wget https://downloads.apache.org/kafka/3.1.0/kafka_2.12-3.1.0.tgz && \
+        tar -xvf kafka_2.12-3.1.0.tgz
         ```
 
     1. Установите утилиту [Kafkacat](https://docs.confluent.io/platform/current/app-development/kafkacat-usage.html):
